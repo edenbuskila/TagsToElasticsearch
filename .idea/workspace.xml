@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e21ee5b-6cb4-430e-b71b-642c92235399" name="Default Changelist" comment="" />
+    <list default="true" id="3e21ee5b-6cb4-430e-b71b-642c92235399" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/כתבות בערבית 3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/כתבות בערבית 4.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/כתבות בערבית 5.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/כתבות בערבית2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/פורמט לתיוג - תרגום (5) 260320.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/פורמט לתיוג - תרגום (6) נעה במברגר.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/פורמט לתיוג - תרגום המנון לבנון.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/קורונה ודאעש.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/תיוג - טלפון - ויקיפדיה.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/תיוג- בטחון פנים.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/ברק (3).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/דיסני אמירה.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/הדר - מלך האריות.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/יום חמישי.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/מאיה דיסני.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/מלך האריות - אכראנ דובארה - מרדכי 260320 להפצה.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/מלך האריות - נועה.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/נוי תרגום מלך האריות.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/פורמט לתיוג - תרגום צופן.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/קורונה אמירה.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/000076_16k_0.stm.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/000077_16k_0.stm.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/000085_16k_0 (נשמר אוטומטית).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/000086_16k_0.stm.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/0105RF_16k_0.stm.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/0304RF_16k_0.stm.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/0304RH_16k_0.stm.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/931_16k_0.stm קטע תרגום.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/עותק של 000076_16k_0.stm.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/931B72B5-12C1-4684-AAA5-E8AF8E4ED767_16k_0.stm (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9321_16k_0.stm (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9324_16k_0.stm (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9325_16k_0.stm (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9326_16k_0.stm (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9328_16k_0.stm.xlsx.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/932_16k_0.stm (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9332_16k_0.stm.xlsx.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/933_16k_0.stm (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9345_16k_0.stm (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data/‏‏‫מסמך טקסט ‫חדש.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/drive_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/drive_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/token.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/venv/token.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/xls_to_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/xls_to_json.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +61,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZqTWcKyyGvw2DWWwwmbIgyCpLn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +73,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/configuration" />
   </component>
   <component name="RecentsManager">
@@ -76,9 +128,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="xls_to_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TagsToElasticsearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/xls_to_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.xls_to_json" />
         <item itemvalue="Python.drive_handler" />
       </list>
     </recent_temporary>
@@ -97,21 +171,48 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="91" key="GridCell.Tab.0.bottom" timestamp="1585596539951">
+    <state width="1345" height="151" key="GridCell.Tab.0.bottom" timestamp="1585750461576">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="91" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585596539951" />
-    <state width="1345" height="91" key="GridCell.Tab.0.center" timestamp="1585596539951">
+    <state width="1345" height="151" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585750461576" />
+    <state width="1345" height="151" key="GridCell.Tab.0.center" timestamp="1585750461575">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="91" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585596539951" />
-    <state width="1345" height="91" key="GridCell.Tab.0.left" timestamp="1585596539951">
+    <state width="1345" height="151" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585750461575" />
+    <state width="1345" height="151" key="GridCell.Tab.0.left" timestamp="1585750461575">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="91" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585596539951" />
-    <state width="1345" height="91" key="GridCell.Tab.0.right" timestamp="1585596539951">
+    <state width="1345" height="151" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585750461575" />
+    <state width="1345" height="151" key="GridCell.Tab.0.right" timestamp="1585750461576">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="91" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585596539951" />
+    <state width="1345" height="151" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585750461576" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1585746399548">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585746399548" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1585746399548">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1585746399548" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1585746399548">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1585746399548" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1585746399548">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1585746399548" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/xls_to_json.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

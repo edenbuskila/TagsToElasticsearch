@@ -49,7 +49,7 @@ def get_files(sagah):
 
 def download_file(service, file_id, sagah):
     request = service.files().get_media(fileId=file_id)
-    fh = io.FileIO(sagah['tgt_path'] + file_id, 'wb')
+    fh = io.FileIO(sagah['tgt_path'] + file_id +'.xlsx', 'wb')
     downloader = MediaIoBaseDownload(fh, request)
     done = False
     while done is False:
@@ -64,6 +64,6 @@ def is_new_file(file_id):
         return True
     
 def update_new_file(file_id):
-    with open('data/up_to_date_files.txt', 'a+') as metadata:
+    with open('data/metadata.txt', 'a+') as metadata:
         metadata.write(file_id + '\n')
         

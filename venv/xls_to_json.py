@@ -1,6 +1,6 @@
 import xlrd
 from configuration.format_xl_conf import *
-
+from logger import write_log
 
 def read_excel_sheet(file_path):
     xl_workbook = xlrd.open_workbook(file_path)
@@ -16,22 +16,25 @@ def get_meta_data(xl_sheet):
     return name, link_to_src, language, sagah
 
 
-def create_jsons_from_tags(xl_sheet):
+def create_jsons_from_tags(xl_sheet, file_path):
     tags_list = []
     tgt = ' '
     idx = FIRST_ROW_TAG_STARTS
     name, link_to_src, language, sagah = get_meta_data(xl_sheet)
     while tgt != '':
-        tag = create_tag_from_sheet(idx, xl_sheet, name, link_to_src, language, sagah)
-        tags_list.append(tag)
+        sentence_id = xl_sheet.cell(idx, SENTENCE_ID_COL).value
+        src = xl_sheet.cell(idx, SRC_COL).value
+        tgt = xl_sheet.cell(idx, TGT_COL).value
+        try:
+            tag = create_tag_from_sheet(sentence_id, src, tgt, name, link_to_src, language, sagah)
+            tags_list.append(tag)
+        except IndexError:
+            write_log("Excel" + file_path +"not in format", True)
         idx += 1
     return tags_list
 
 
-def create_tag_from_sheet(idx, xl_sheet, name, link_to_src, language, sagah):
-    sentence_id = xl_sheet.cell(idx, SENTENCE_ID_COL).value
-    src = xl_sheet.cell(idx, SRC_COL).value
-    tgt = xl_sheet.cell(idx, TGT_COL).value
+def create_tag_from_sheet(sentence_id, src, tgt, name, link_to_src, language, sagah):
     tag = {'id': sentence_id,
            'src': src,
            'tgt': tgt,
