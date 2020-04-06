@@ -2,6 +2,8 @@ from drive_handler import get_files
 from conf import *
 from xls_to_json import create_jsons_from_tags , read_excel_sheet
 import json
+from elasticsearch import Elasticsearch
+import uuid
 
 stt_arabic = {'folder_id' : STT_ARABIC_FOLDER_ID , 'tgt_path' : STT_ARABIC_TGT_PATH, 'name' : 'stt_arabic'}
 stt_farsi  = {'folder_id' : STT_FARSI_FOLDER_ID , 'tgt_path' : STT_FARSI_TGT_PATH, 'name' : 'stt_farsi'}
@@ -17,13 +19,19 @@ def main():
         for file_id in files_ids:
             xl_sheet = read_excel_sheet(sagah['tgt_path']+file_id+'.xlsx')
             tags = create_jsons_from_tags(xl_sheet, sagah['tgt_path']+file_id+'.xlsx')
-            sagah_tags_jsons.append({file_id : tags})
-        tags_jsons.append({sagah['name'] : sagah_tags_jsons})
+            sagah_tags_jsons.append({'file_id': file_id, 'tags': tags})
+        tags_jsons.append({'sagah': sagah['name'], 'data': sagah_tags_jsons})
 
-    print(tags_jsons)
     with open('data/arabic-tags.json', 'w+', encoding='utf-8') as all_jsons:
         all_jsons.write((json.dumps(tags_jsons, ensure_ascii=False).encode('utf8').decode()))
-        
+    es = Elasticsearch(['http://tags-master-node1.eastus.cloudapp.azure.com'], http_auth=('elastic', 'CacheMemory321'),
+                       port=9200)
+    for tag_json in tags_jsons:
+        sagah = tag_json['sagah']
+        for data in tag_json['data']:
+            for tag in data['tags']:
+                es.index(index=sagah, id=uuid.uuid4(), body=tag)
+
 
 if __name__ == '__main__':
     main()

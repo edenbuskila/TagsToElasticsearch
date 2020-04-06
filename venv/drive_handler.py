@@ -58,7 +58,7 @@ def download_file(service, file_id, sagah):
     
 def is_new_file(file_id):
     with open('data/metadata.txt', 'r+') as metadata:
-        files_ids = metadata.readlines()
+        files_ids = metadata.read().splitlines()
         if file_id in files_ids:
             return False
         return True
@@ -66,4 +66,5 @@ def is_new_file(file_id):
 def update_new_file(file_id):
     with open('data/metadata.txt', 'a+') as metadata:
         metadata.write(file_id + '\n')
+
         
