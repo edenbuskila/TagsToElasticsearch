@@ -2,52 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e21ee5b-6cb4-430e-b71b-642c92235399" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tags Board.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$gs Board.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/כתבות בערבית 3.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/כתבות בערבית 4.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/כתבות בערבית 5.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/כתבות בערבית2.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/פורמט לתיוג - תרגום (5) 260320.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/פורמט לתיוג - תרגום (6) נעה במברגר.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/פורמט לתיוג - תרגום המנון לבנון.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/קורונה ודאעש.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/תיוג - טלפון - ויקיפדיה.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Arabic/תיוג- בטחון פנים.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/ברק (3).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/דיסני אמירה.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/הדר - מלך האריות.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/יום חמישי.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/מאיה דיסני.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/מלך האריות - אכראנ דובארה - מרדכי 260320 להפצה.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/מלך האריות - נועה.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/נוי תרגום מלך האריות.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/פורמט לתיוג - תרגום צופן.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/Literary Farsi/קורונה אמירה.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/000076_16k_0.stm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/000077_16k_0.stm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/000085_16k_0 (נשמר אוטומטית).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/000086_16k_0.stm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/0105RF_16k_0.stm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/0304RF_16k_0.stm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/0304RH_16k_0.stm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/931_16k_0.stm קטע תרגום.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Arabic/עותק של 000076_16k_0.stm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/931B72B5-12C1-4684-AAA5-E8AF8E4ED767_16k_0.stm (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9321_16k_0.stm (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9324_16k_0.stm (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9325_16k_0.stm (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9326_16k_0.stm (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9328_16k_0.stm.xlsx.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/932_16k_0.stm (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9332_16k_0.stm.xlsx.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/933_16k_0.stm (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/STT Farsi/9345_16k_0.stm (1).xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/data/‏‏‫מסמך טקסט ‫חדש.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/drive_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/drive_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/token.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/venv/token.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/xls_to_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/xls_to_json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +21,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZqTWcKyyGvw2DWWwwmbIgyCpLn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -74,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/configuration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JobExample" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -170,39 +131,54 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="151" key="GridCell.Tab.0.bottom" timestamp="1585750461576">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1586259916860">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="151" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585750461576" />
-    <state width="1345" height="151" key="GridCell.Tab.0.center" timestamp="1585750461575">
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586259916860" />
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom" timestamp="1585808566733">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="151" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585750461575" />
-    <state width="1345" height="151" key="GridCell.Tab.0.left" timestamp="1585750461575">
+    <state width="1345" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585808566733" />
+    <state width="1345" height="238" key="GridCell.Tab.0.center" timestamp="1585808566733">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="151" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585750461575" />
-    <state width="1345" height="151" key="GridCell.Tab.0.right" timestamp="1585750461576">
+    <state width="1345" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585808566733" />
+    <state width="1345" height="238" key="GridCell.Tab.0.left" timestamp="1585808566733">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="151" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585750461576" />
-    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1585746399548">
+    <state width="1345" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585808566733" />
+    <state width="1345" height="238" key="GridCell.Tab.0.right" timestamp="1585808566733">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585746399548" />
-    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1585746399548">
+    <state width="1345" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585808566733" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1585808566734">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1585746399548" />
-    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1585746399548">
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585808566734" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1585808566734">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1585746399548" />
-    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1585746399548">
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1585808566734" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1585808566734">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1585746399548" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1585808566734" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1585808566734">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1585808566734" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1586259232030">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586259232030" />
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586259269408">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1586259269408" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
